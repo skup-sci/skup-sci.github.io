@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
- hi , we are  pankaj and Shashank working as web developer at mmmut Gorakhpur.😍🥰🤩
+ hihi wm , we are  pankaj and Shashank working as web developer at mmmut Gorakhpur.😍🥰🤩
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- hi this is my first portfolio demo.🤩🥰😍
 - List
 
 1. Numbered
